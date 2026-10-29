@@ -3,6 +3,10 @@
   "current_scene": 1,
   "total_words": 0,
   "chapter_status": "not_started",
-  "last_action": "initialized",
-  "next_milestone": "create_outline"
+  "last_action": "state_synchronized",
+  "next_milestone": "complete_chapter_1",
+  "novel_title": "Untitled",
+  "target_words": 90000,
+  "chapters_completed": [],
+  "last_sync_time": "2026-10-29T00:18:02.688628Z"
 }
