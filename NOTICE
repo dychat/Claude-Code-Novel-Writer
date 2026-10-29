@@ -1,0 +1,5 @@
+Les agents et skills de .claude/ proviennent de
+https://github.com/haowjy/creative-writing-skills (commit 1cb520f),
+licence Apache 2.0 (voir LICENSE). Seul le préfixe de namespace
+"creative-writing-skills:" a été retiré des références internes pour
+qu'ils fonctionnent comme agents et skills de projet.
